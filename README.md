@@ -12,4 +12,9 @@ There are 4 major takeaway from our analysis:
 
 ## Summary
 
-With the "silver tsunami beginning to make an impact, there are 72,458 roles that need to be filled. There are currently not enough qualified retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. 
+With the "silver tsunami beginning to make an impact, there are 72,458 roles that need to be filled.
+![](https://github.com/vstuopis/Pewlett-Hackard-Analysis/blob/main/Retiring%20Employee%20Counts.png)
+
+There are currently not enough qualified retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. As you can see from the below screenshot of titles for the different eligible mentors, there is lack of Technique Leaders and Staff compared to those retiring. This is concerning due to the vast amount of knowledge in these two aread that may not be passed down and will leave with the retiring employees of Pewlett-Hackard.
+
+![](https://github.com/vstuopis/Pewlett-Hackard-Analysis/blob/main/Mentorship%20Counts%20by%20Title.png)
